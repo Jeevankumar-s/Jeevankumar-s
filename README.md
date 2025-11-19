@@ -10,7 +10,6 @@
 - 🔍 Previously worked as a **MERN Stack Intern at Antlabs**
 - 🧠 Passionate about building **scalable web apps, AI-based tools, and real-time applications**
 - 👨‍🏫 I provide **online courses** in Cybersecurity, Python, and Full Stack Development
-- 🌐 I run a YouTube channel **"G Engineer"** sharing coding and edtech content
 - 🎯 My goal: Gain knowledge equivalent to a **5-year experienced developer**
 - 🏅 Winner of **Web Development Hackathon by Google Developer Student Club (2023)**
 - 📚 I love exploring **AI, automation workflows, React Native, and cloud technologies**
@@ -68,8 +67,7 @@
 
 - 🥇 Won **1st Prize** in Web Development Hackathon — Google Developers Club (2023)  
 - 🎓 Completed **Industry Ready Cert. in Full Stack Development** from NxtWave (2024)  
-- 🏗 Built **AI-powered summarization workflows using n8n and OpenRouter.ai**  
-- 📺 Launched **"G Engineer" YouTube Channel** with EdTech & AI Tutorials  
+- 🏗 Built **AI-powered summarization workflows using n8n and OpenRouter.ai** 
 
 ---
 
