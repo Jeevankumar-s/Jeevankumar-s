@@ -65,7 +65,7 @@
 
 ## 🏆 Achievements
 
-- 🥇 Won **1st Prize** in Web Development Hackathon — Google Developers Club (2023)  
+- 🥇 Won **1st Prize** in Web Development Hackathon - Google Developers Club (2023)  
 - 🎓 Completed **Industry Ready Cert. in Full Stack Development** from NxtWave (2024)  
 - 🏗 Built **AI-powered summarization workflows using n8n and OpenRouter.ai** 
 
