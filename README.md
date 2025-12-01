@@ -41,11 +41,6 @@
 - Developing user-friendly responsive web apps using **React.js, JavaScript, HTML, CSS**  
 - Focused on **frontend performance optimization, design systems, user experience, and APIs**
 
-### 💼 Antlabs | MERN Stack Intern  
-📅 Oct 2023 – Jan 2024  
-- Built modules for **ticket management, customer dashboards, note tracking, and admin roles**  
-- Worked on API integration, authentication, document handling, and project delivery  
-
 ---
 
 ## 🚀 Major Projects
