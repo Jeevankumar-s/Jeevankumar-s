@@ -7,7 +7,6 @@
 
 ## 🧑‍💼 About Me
 - 💼 Currently working as a **Software Engineer (Full-time) at Collectorbabu** (Jan 2024 - Present)
-- 🔍 Previously worked as a **MERN Stack Intern at Antlabs**
 - 🧠 Passionate about building **scalable web apps, AI-based tools, and real-time applications**
 - 👨‍🏫 I provide **online courses** in Cybersecurity, Python, and Full Stack Development
 - 🎯 My goal: Gain knowledge equivalent to a **5-year experienced developer**
