@@ -9,7 +9,6 @@
 - 💼 Currently working as a **Software Engineer (Full-time) at Collectorbabu** (Jan 2024 - Present)
 - 🧠 Passionate about building **scalable web apps, AI-based tools, and real-time applications**
 - 👨‍🏫 I provide **online courses** in Cybersecurity, Python, and Full Stack Development
-- 🎯 My goal: Gain knowledge equivalent to a **5-year experienced developer**
 - 🏅 Winner of **Web Development Hackathon by Google Developer Student Club (2023)**
 - 📚 I love exploring **AI, automation workflows, React Native, and cloud technologies**
 
