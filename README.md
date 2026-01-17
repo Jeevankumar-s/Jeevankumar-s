@@ -8,8 +8,6 @@
 ## 🧑‍💼 About Me
 - 💼 Currently working as a **Software Engineer (Full-time) at Collectorbabu** (Jan 2024 - Present)
 - 🧠 Passionate about building **scalable web apps, AI-based tools, and real-time applications**
-- 👨‍🏫 I provide **online courses** in Cybersecurity, Python, and Full Stack Development
-- 🏅 Winner of **Web Development Hackathon by Google Developer Student Club (2023)**
 - 📚 I love exploring **AI, automation workflows, React Native, and cloud technologies**
 
 ---
@@ -27,9 +25,6 @@
 
 **Tools & Platforms:**  
 `GitHub` | `VS Code` | `Google Cloud` | `n8n` | `Bitbucket`
-
-**AI & Automation:**  
-`ChatGPT` | `OpenRouter.ai` | `AI Prompting` | `WhatsApp OTP Integration` | `DroidCam Setup`
 
 ---
 
@@ -51,8 +46,6 @@
 | **Nizhal TNPSC** | Online education platform for TNPSC aspirants | React, MongoDB |
 | **Car E-commerce Website** | Car buying/selling platform with booking & user dashboard | MERN Stack |
 | **Outpass Management System** | Digital tool for student gate pass approvals | React, Node.js |
-| **Paint App (Vision Aid)** | Learning tool for blind students to feel letter shapes | Python, OpenCV |
-| **AI-Powered Python Tutor** | Interactive AI-based teaching system for children | React, API Integration |
 
 ---
 
