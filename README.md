@@ -68,8 +68,7 @@
 **Organizations & Projects:**
 - freeCodeCamp  
 - MDN Web Docs  
-- Node.js  
-- Apache Airflow  
+- Node.js
 
 ---
 
