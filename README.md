@@ -285,29 +285,10 @@ System Design
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jeevankumar-s&show_icons=true&hide_border=true&count_private=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevankumar-s&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com/?user=Jeevankumar-s&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Jeevankumar-s&theme=flat&no-frame=true&column=6&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
 ---
 
 # 🤝 Connect With Me
