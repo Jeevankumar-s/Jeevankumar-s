@@ -9,7 +9,7 @@ Software Development Engineer | Full-Stack Developer | Open Source Contributor
 </p>
 
 <p align="center">
-  📍 Salem, Tamil Nadu, India &nbsp;•&nbsp; 💼 2.9+ Years Experience &nbsp;•&nbsp; 🌍 Open Source
+  📍 Salem, Tamil Nadu, India &nbsp;•&nbsp; 💼 10 Years Experience &nbsp;•&nbsp; 🌍 Open Source
 </p>
 
 <p align="center">
@@ -304,7 +304,6 @@ System Design
     <img src="https://img.shields.io/badge/GitHub-Jeevankumar--s-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <p align="center">
