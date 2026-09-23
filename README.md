@@ -195,23 +195,6 @@ A job discovery platform for exploring companies, engineering roles and intervie
 
 ---
 
-## 🌐 Annex Global Conferences
-
-Production conference and event management platform with payment integrations and administrative workflows.
-
-**Key Work**
-
-* 💳 Payment gateway integrations
-* 📊 Administrative reporting
-* 📝 Conference registration workflows
-* 🔌 Backend/API integrations
-
-**Tech**
-
-`Next.js` `Django` `MongoDB` `Razorpay` `PayPal`
-
----
-
 # 🌍 Open Source
 
 I actively contribute to open-source projects and enjoy working through real-world issues, tests, CI failures and maintainer feedback.
@@ -289,6 +272,7 @@ System Design
     alt="GitHub Streak"
   />
 </p>
+
 ---
 
 # 🤝 Connect With Me
@@ -304,6 +288,7 @@ System Design
     <img src="https://img.shields.io/badge/GitHub-Jeevankumar--s-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <p align="center">
